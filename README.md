@@ -21,7 +21,7 @@ K019C1053は、日本工学院専門学校の佐口航の学籍番号です。
 
 ## ソースコード (学習用)
 
-```Python:Keras learn.py  
+```Python:Keras_learn.py  
 import os
 import glob
 import zipfile
@@ -538,7 +538,7 @@ if converted_backup == True:
 ```
 
 ## ソースコード (予測用)
-```Python:Keras predict.py  
+```Python:Keras_predict.py  
 import datetime
 import numpy as np
 import keras
@@ -596,7 +596,7 @@ while True:
 ```
 
 ## ソースコード (正解率測定用)
-```Python:Keras accuracy rate.py
+```Python:Keras_accuracy_rate.py
 import os
 import glob
 import zipfile
