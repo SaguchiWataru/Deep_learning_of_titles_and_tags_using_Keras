@@ -19,7 +19,7 @@ K019C1053は、日本工学院専門学校の佐口航の学籍番号です。
 保有資格は、国家試験の基本情報技術者試験です。  
 2023年卒業予定です。  
 
-## ソースコード (学習用)
+## ソースコード (学習用) Keras_learn.py
 
 ```Python:Keras_learn.py  
 import os
@@ -537,7 +537,8 @@ if converted_backup == True:
         print(i, "\t", v)
 ```
 
-## ソースコード (予測用)
+## ソースコード (予測用) Keras_predict.py
+
 ```Python:Keras_predict.py  
 import datetime
 import numpy as np
@@ -595,7 +596,8 @@ while True:
     print(all_answer_labels[answer_index])
 ```
 
-## ソースコード (正解率測定用)
+## ソースコード (正解率測定用) Keras_accuracy_rate.py
+
 ```Python:Keras_accuracy_rate.py
 import os
 import glob
