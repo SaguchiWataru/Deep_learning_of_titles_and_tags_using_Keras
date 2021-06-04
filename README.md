@@ -1,5 +1,8 @@
 # 深層学習を用いた動画のタイトルからタグを予測する自動ジャンル分け機能
 
+この製作物を発表したIDRユーザーフォーラム
+[https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html](https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html)
+
 ## IDRユーザフォーラム 2020用 ポスター資料(本編)
 
 ![スライド1](https://raw.githubusercontent.com/SaguchiWataru/Deep_learning_of_titles_and_tags_using_Keras/master/sources/slide_01.jpg)
