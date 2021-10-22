@@ -1,6 +1,6 @@
 # 深層学習を用いた動画のタイトルからタグを予測する自動ジャンル分け機能
 
-このプロジェクトは国立情報学のIDRユーザーフォーラム[https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html](https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html)でも公開しています。  
+このプロジェクトは国立情報学研究所のIDRユーザーフォーラム[https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html](https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html)でも公開しています。  
 
 ## IDRユーザフォーラム 2020用 ポスター資料(本編)
 
@@ -13,7 +13,7 @@
 ## 最後に  
 
 このリポジトリをご閲覧いただきありがとうございます。  
-このプロジェクトは国立情報学のIDRユーザーフォーラム[https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html](https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html)でも公開しています。  
+このプロジェクトは国立情報学研究所のIDRユーザーフォーラム[https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html](https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html)でも公開しています。  
 もしも、このプロジェクトに興味を持って頂けた方がいらっしゃったら幸いです。  
 最近は、AtCoderというプログラミングコンテストに毎週参加しています。  
 [K019C1053のコンテスト実績](https://atcoder.jp/users/K019C1053)  
