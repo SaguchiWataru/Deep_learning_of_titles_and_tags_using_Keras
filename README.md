@@ -18,7 +18,7 @@
 [https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html](https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html)  
 もしも、このプロジェクトに興味を持って頂けた方がいらっしゃったら幸いです。  
 
-最近は、AtCoderというプログラミングコンテストに毎週参加しています。  
+最近は、AtCoderというプログラミングコンテストに毎週参加しています。Rating最高値は311です。  
 コンテスト実績：[https://atcoder.jp/users/K019C1053](https://atcoder.jp/users/K019C1053)  
 保有資格は、基本情報技術者試験です。  
 2023年卒業予定です。  
