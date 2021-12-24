@@ -22,7 +22,7 @@ IDRユーザーフォーラム：[https://www.nii.ac.jp/dsc/idr/userforum/progra
 Rating最高値は311です。  
 コンテスト実績：[https://atcoder.jp/users/K019C1053](https://atcoder.jp/users/K019C1053)  
 保有資格は、基本情報技術者試験です。  
-2023年卒業予定です。  
+2023年3月卒業予定です。  
 
 ## ソースコード (学習用) Keras_learn.py
 
